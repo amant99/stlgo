@@ -4,7 +4,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/amant99/stlgo/internal/factory"
+	"github.com/amant99/stlgo/factory"
 )
 
 func main() {
